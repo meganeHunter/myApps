@@ -1,0 +1,17 @@
+  Elegy Written in a Country Churchyard
+
+  Line1-12:
+
+    The curfew tolls the knell of parting day,
+    The lowing herd wind slowly o'er the lea
+    The plowman homeward plods his weary way,
+    And leaves the world to darkness and to me.
+    Now fades the glimm'ring landscape on the sight,
+    And all the air a solemn stillness holds,
+    Save where the beetle wheels his droning flight,
+    And drowsy tinklings lull the distant folds;
+    Save that from yonder ivy-mantled tow'r
+    The moping owl does to the moon complain
+    Of such, as wand'ring near her secret bow'r,
+    Molest her ancient solitary reign. 
+

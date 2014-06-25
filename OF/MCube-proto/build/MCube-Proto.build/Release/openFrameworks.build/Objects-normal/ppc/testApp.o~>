@@ -1,0 +1,3 @@
+/Users/user/Desktop/オP/of_preRelease_v0.06_xcode_FAT/apps/MyApps/MCube-proto/src/testApp.cpp: In member function 'virtual void testApp::keyPressed(int)':
+/Users/user/Desktop/オP/of_preRelease_v0.06_xcode_FAT/apps/MyApps/MCube-proto/src/testApp.cpp:61: error: 'class MCubeP' has no member named 'setMode'
+/Users/user/Desktop/オP/of_preRelease_v0.06_xcode_FAT/apps/MyApps/MCube-proto/src/testApp.cpp:70: error: 'class MCubeP' has no member named 'setMode'
